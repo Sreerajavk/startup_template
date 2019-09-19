@@ -162,3 +162,12 @@
     .tooltip_templates { display: none; }
     .tooltips{margin-left:3em; }
     .card img { height: 350px;}
+
+    .head{
+        width:100%;
+        display: flex;
+        margin : 20px;
+        justify-content: space-between;
+        
+        
+    }
